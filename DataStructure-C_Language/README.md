@@ -1,4 +1,4 @@
-# c-language-training-camp-3-4
+# c-language
 
 #### 介绍
 集训营三四期
